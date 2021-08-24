@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/DevDevolopertg/Advanced-Force-Sub-Group-2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/DevDevolopertg/grp-3-Filterbot-For-Dyno">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
