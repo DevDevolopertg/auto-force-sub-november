@@ -38,7 +38,7 @@ async def start(bot, update):
                             InlineKeyboardButton(text="📒 Join Our Channel 📒", url=f"https://t.me/joinchat/g09xn9Slq4Q2NmFl"),
                         ],
                         [
-                            InlineKeyboardButton(text="♀️ Try Again ♀️", url= f"https://t.me/CVFilterit_Bot?start={file_uid}")
+                            InlineKeyboardButton(text="♀️ Try Again ♀️", url= f"https://t.me/Cv_Filteritver3Bot?start={file_uid}")
                         ]
 
                     ]
